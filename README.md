@@ -48,7 +48,7 @@ This project is a presentation-based training module designed to help individual
 
 ## 🖼 Preview
 
-![Preview](intership.pptx)
+![Preview](https://github.com/TheCyberMask/CodeAlpha_Phishing-Awareness-Training/blob/main/CodeAlpha_Phishing%20Awareness%20Training.pptx)
 
 ---
 
